@@ -28,7 +28,7 @@ The `evidence` folder contains screenshots and screen recordings showing the res
 
 ## Technologies
 
-- HTML5
+- HTML4
 
 ---
 
