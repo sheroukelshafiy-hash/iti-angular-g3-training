@@ -17,14 +17,14 @@ The HTML files are available inside the `temp` folder:
 
 ## Evidence
 
-The `evidence` folder contains screenshots and screen recordings showing the results of the completed tasks.
+Screenshots and screen recordings are provided as evidence for the completed tasks.
 
-| Task | Evidence |
-|------|----------|
-| Task 1 | `task1.mp4` |
-| Task 2 | `task2.png` |
-| Task 3 | `task3.png` |
-| Task 4 | `task4.mp4` |
+| Task | Preview | Video |
+|------|---------|-------|
+| Task 1 | [![Task 1 Preview](evidence/task1-preview.png)](evidence/task1.mp4) | [View Task 1 Video](evidence/task1.mp4) |
+| Task 2 | ![Task 2 Result](evidence/task2.png) | — |
+| Task 3 | ![Task 3 Result](evidence/task3.png) | — |
+| Task 4 | [![Task 4 Preview 1](evidence/task4-1-preview.png)](evidence/task4.mp4) [![Task 4 Preview 2](evidence/task4-2-preview.png)](evidence/task4.mp4) | [View Task 4 Video](evidence/task4.mp4) |
 
 ## Technologies
 
