@@ -1,0 +1,95 @@
+/* Page Base */
+body {
+    background-color: #1a0509;
+    color: #F7F2E8;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 20px 0 0 0;
+}
+
+/* Task Pill Header */
+.task {
+    background-color: #c9a35e;
+    color: #1a0509;
+    width: 130px;
+    padding: 6px 12px;
+    margin: 0 auto 15px auto;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* Main Titles */
+h1 {
+    color: #F7F2E8;
+    text-align: center;
+    font-size: 42px;
+    margin: 0 0 10px 0;
+    letter-spacing: 2px;
+}
+
+h3 {
+    color: #c9a35e;
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+    margin: 0 0 40px 0;
+}
+
+/* About Section */
+.about {
+    padding: 0 30px;
+    margin-bottom: 40px;
+}
+
+.about h2 {
+    color: #c9a35e;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.about p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+.prof {
+    width: 320px;
+    border: 1px solid #c9a35e;
+    background-color: #1a0509;
+    margin-top: 20px;
+}
+
+.prof img {
+    width: 100%;
+    height: auto;
+}
+.info {
+    padding: 15px;
+    text-align: left;
+}
+
+.info h2 {
+    color: #dc930c;
+    font-size: 18px;
+    margin: 0 0 8px 0;
+}
+
+.info p {
+    color: #F7F2E8;
+    font-size: 12px;
+    margin: 4px ;
+}
+
+/* Footer Banner */
+.footer {
+    background-color: #c9a35e;
+    color: #1a0509;
+    text-align: center;
+    padding: 12px 0;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+}
